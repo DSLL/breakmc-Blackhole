@@ -1,0 +1,14 @@
+main: code.BreakMC.devmode.DevMode
+name: DevMode
+version: 1.0
+author: [Ozcr]
+authors: [Ozcr, Young_Explicit, Autrii]
+
+commands:
+  devmode:
+      description: DevMode Command
+        blackhole:
+	    description: DevMode Command
+	      test:
+	          description: Test Command
+
